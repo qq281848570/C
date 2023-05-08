@@ -73,3 +73,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+[![Deploy Hugo site to Pages](https://github.com/qq281848570/C/actions/workflows/hugo.yml/badge.svg)](https://github.com/qq281848570/C/actions/workflows/hugo.yml)
